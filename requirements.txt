@@ -1,0 +1,7 @@
+flet
+escpos
+python-escpos[all]
+pyserial
+bcrypt
+python-decouple
+reportlab
